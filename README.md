@@ -42,7 +42,10 @@ REST API для управления заметками на Flask + SQLAlchemy.
 
 ## Демо
 
-Проект демонстрируется локально. Запуск: `python app.py` → http://127.0.0.1:5000
+Проект развёрнут на Render: https://notes-api-hse8.onrender.com
+
+Проверка:
+curl https://notes-api-hse8.onrender.com/api/notes
 
 ## Автор
 
